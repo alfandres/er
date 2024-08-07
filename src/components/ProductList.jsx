@@ -16,8 +16,8 @@ const products = [
     printing: "Sublimación, vinilo, DTF",
     images: [
       camisetaBasicaImg,
-      "./src/assets/img/png/FRONT-Piel-durazno.png",
-      "./src/assets/img/png/BACK-Piel-durazno.png",
+      "/src/assets/img/png/FRONT-Piel-durazno.png",
+      "/src/assets/img/png/BACK-Piel-durazno.png",
     ],
   },
   {
@@ -26,8 +26,8 @@ const products = [
     printing: "Sublimación, vinilo, DTF",
     images: [
       camisetaBasicaImgDama,
-      "./src/assets/img/png/Piel-durazno-white-fwM.png",
-      "./src/assets/img/png/Piel-durazno-white-bwM.png",
+      "/src/assets/img/png/Piel-durazno-white-fwM.png",
+      "/src/assets/img/png/Piel-durazno-white-bwM.png",
     ],
   },
   {
@@ -36,8 +36,8 @@ const products = [
     printing: "vinilo, DTF, Screen",
     images: [
       camisetaOverSizeImg,
-      "./src/assets/img/png/Oversize-black-f.png",
-      "./src/assets/img/png/Oversize-black-b.png",
+      "/src/assets/img/png/Oversize-black-f.png",
+      "/src/assets/img/png/Oversize-black-b.png",
     ],
   },
   {
@@ -46,8 +46,8 @@ const products = [
     printing: "Full Sublimación",
     images: [
       camisetaDeportivaImg,
-      "./src/assets/img/png/shirt-fullsublimacion-f-1.png",
-      "./src/assets/img/png/shirt-fullsublimacion-b-1.png",
+      "/src/assets/img/png/shirt-fullsublimacion-f-1.png",
+      "/src/assets/img/png/shirt-fullsublimacion-b-1.png",
     ],
   },
   {
@@ -56,8 +56,8 @@ const products = [
     printing: "Sublimación, Bordado, Diseño confección",
     images: [
       poloImg,
-      "./src/assets/img/png/polo-f-1.png",
-      "./src/assets/img/png/polo-b-1.png",
+      "/src/assets/img/png/polo-f-1.png",
+      "/src/assets/img/png/polo-b-1.png",
     ],
   },
   {
@@ -66,8 +66,8 @@ const products = [
     printing: "FullSublimación",
     images: [
       conjuntoDeportivoMenImg,
-      "./src/assets/img/png/men-sports-uniform-f1.png",
-      "./src/assets/img/png/men-sports-uniform-b1.png",
+      "/src/assets/img/png/men-sports-uniform-f1.png",
+      "/src/assets/img/png/men-sports-uniform-b1.png",
     ],
   },
   {
@@ -76,8 +76,8 @@ const products = [
     printing: "FullSublimación",
     images: [
       conjuntoDeportivoWomenImg,
-      "./src/assets/img/png/women-sports-uniform-f2.png",
-      "./src/assets/img/png/women-sports-uniform-b2.png",
+      "/src/assets/img/png/women-sports-uniform-f2.png",
+      "/src/assets/img/png/women-sports-uniform-b2.png",
     ],
   },
   {
@@ -86,8 +86,8 @@ const products = [
     printing: "Vinilo, DTF, Bordado, Diseño de confección",
     images: [
       sweaterPromocion,
-      "./src/assets/img/png/sweater-promocion-f.png",
-      "./src/assets/img/png/sweater-promocion-b.png",
+      "/src/assets/img/png/sweater-promocion-f.png",
+      "/src/assets/img/png/sweater-promocion-b.png",
     ],
     
   },

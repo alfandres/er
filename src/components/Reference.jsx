@@ -9,7 +9,7 @@ function Testimonials() {
           <div className="flex flex-col items-center bg-gray-200 p-6 rounded-lg shadow-lg">
             <img
               className="w-32 h-32 rounded-full mb-4"
-              src="src/assets/img/img-referencia-1.jpg"
+              src="./src/assets/img/img-referencia-1.jpg"
               alt="foto referencia"
             />
             <p className="text-base md:text-lg">
@@ -29,7 +29,7 @@ function Testimonials() {
           <div className="flex flex-col items-center bg-gray-200 p-6 rounded-lg shadow-lg">
           <img
               className="w-32 h-32 rounded-full mb-4"
-              src="src/assets/img/img-referencia-2.jpg"
+              src="./src/assets/img/img-referencia-2.jpg"
               alt="foto referencia"
             />
             <p className="text-base md:text-lg">

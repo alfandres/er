@@ -22,7 +22,7 @@ function Footer() {
     <footer id="footer" className="bg-cian text-white p-4 text-center">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="mb-4 md:mb-0">
-          <img src="./src/assets/svg/Logo-Er-white.svg" alt="Er" className="w-24" />
+          <img src="/src/assets/svg/Logo-Er-white.svg" alt="Er" className="w-24" />
         </div>
         <div className="text-center md:text-left">
           <p>Dirección: Torcoroma 3 Mz C-5 Casa 8 Piso 2, Cúcuta, Colombia</p>
@@ -38,7 +38,7 @@ function Footer() {
             className="flex flex-col items-center hover:underline"
           >
             <img
-                  src="./src/assets/svg/logoFacebook.svg"
+                  src="/src/assets/svg/logoFacebook.svg"
                   alt="Icono de Facebook"
                   className="w-8 h-8"
                 />
@@ -52,7 +52,7 @@ function Footer() {
             className="flex flex-col items-center hover:underline"
           >
             <img
-                  src="./src/assets/svg/logoInstagram.svg"
+                  src="/src/assets/svg/logoInstagram.svg"
                   alt="Icono de Instagram"
                   className="w-8 h-8"
                 />
