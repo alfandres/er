@@ -1,6 +1,6 @@
 import React from "react";
 import { imgs } from "../assets/imgs.js";
-import { svgs } from "../assets/svg.js";
+import { svgs } from "../assets/svgs.js";
 function Hero() {
   return (
     <section

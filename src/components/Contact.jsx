@@ -1,6 +1,6 @@
 import React from "react";
-import { imgs } from "../assets/imgs";
-import { svgs } from "../assets/svg";
+import { imgs } from "../assets/imgs.js";
+import { svgs } from "../assets/svgs.js";
 
 const Contact = () => {
   return (
