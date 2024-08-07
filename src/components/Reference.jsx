@@ -1,5 +1,5 @@
 import React from "react";
-import { imgs } from "../assets/imgs.js";
+import { imgs } from "./src/assets/imgs.js";
 
 function Testimonials() {
   return (

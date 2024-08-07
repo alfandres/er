@@ -1,5 +1,5 @@
 import React from "react";
-import { svgs } from "../assets/svgs.js";
+import { svgs } from "./src/assets/svgs.js";
 
 function Footer() {
   return (

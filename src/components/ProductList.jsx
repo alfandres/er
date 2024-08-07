@@ -1,6 +1,6 @@
 import React from "react";
 import Product from "./Product";
-import { pngs } from "../assets/png.js";
+import { pngs } from "./src/assets/png.js";
 
 const products = [
   {

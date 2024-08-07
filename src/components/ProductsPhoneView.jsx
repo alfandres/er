@@ -1,5 +1,5 @@
 import React from "react";
-import { pngs } from "../assets/png.js";
+import { pngs } from "./src/assets/png.js";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
