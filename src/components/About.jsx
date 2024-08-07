@@ -1,4 +1,5 @@
 import React from "react";
+import { imgs } from "../assets/imgs";
 
 function About() {
   return (
@@ -22,7 +23,7 @@ function About() {
         </div>
         <div className="mb-8 px-2 md:px-0 md:mb-0">
           <img
-            src="/src/assets/img/img-1.jpg"
+            src={imgs.imgAbout}
             alt="img-photo"
             className="w-full md:w-80 h-auto mx-auto rounded-lg"
           />
