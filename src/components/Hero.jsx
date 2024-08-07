@@ -1,5 +1,5 @@
 import React from "react";
-import { assets } from "./assets";
+import { assets } from "../assets.js";
 function Hero() {
   return (
     <section

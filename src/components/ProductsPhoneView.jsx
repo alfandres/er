@@ -1,5 +1,5 @@
 import React from "react";
-import { assets } from "./assets";
+import { assets } from "../assets.js";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
