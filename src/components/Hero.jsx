@@ -11,7 +11,7 @@ function Hero() {
       <div className="relative z-10 text-center text-white ">
         <div className="flex flex-col items-center md:items-center">
           <img
-            src="src/assets/svg/Logo-Er.svg"
+            src="./src/assets/svg/Logo-Er.svg"
             alt="Company Logo"
             className="w-40 md:w-70 h-auto mb-6"
           />
@@ -26,7 +26,7 @@ function Hero() {
                 className="flex flex-col items-center justify-center p-4 md:p-6 bg-cian text-white shadow-lg rounded-lg transform transition-transform hover:scale-105"
               >
                 <img
-                  src="src/assets/svg/logoCall.svg"
+                  src="./src/assets/svg/logoCall.svg"
                   alt="Icono de llamada"
                   className="w-12 h-12"
                 />
@@ -39,7 +39,7 @@ function Hero() {
                 target="_blank"
               >
                 <img
-                  src="src/assets/svg/logoWhatsapp.svg"
+                  src="./src/assets/svg/logoWhatsapp.svg"
                   alt="Icono de WhatsApp"
                   className="w-12 h-12"
                 />
@@ -52,7 +52,7 @@ function Hero() {
                 target="_blank"
               >
                 <img
-                  src="src/assets/svg/logoInstagram.svg"
+                  src="./src/assets/svg/logoInstagram.svg"
                   alt="Icono de Instagram"
                   className="w-12 h-12"
                 />
@@ -65,7 +65,7 @@ function Hero() {
                 target="_blank"
               >
                 <img
-                  src="src/assets/svg/logoFacebook.svg"
+                  src="./src/assets/svg/logoFacebook.svg"
                   alt="Icono de Facebook"
                   className="w-12 h-12"
                 />
