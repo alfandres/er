@@ -1,18 +1,17 @@
 import React from "react";
-import { imgs } from "./src/assets/imgs.js";
-import { svgs } from "./src/assets/svgs.js";
+import { assets } from "./assets";
 function Hero() {
   return (
     <section
       id="hero"
       className="relative w-full h-screen flex items-center justify-center bg-cover bg-center"
-      style={{ backgroundImage: `url(${imgs.backgroundHeroEr})` }} 
+      style={{ backgroundImage: `url(${assets.backgroundHeroEr})` }} 
     >
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="relative z-10 text-center text-white ">
         <div className="flex flex-col items-center md:items-center">
           <img
-            src={svgs.LogoEr}
+            src={assets.LogoEr}
             alt="Company Logo"
             className="w-40 md:w-70 h-auto mb-6"
           />
@@ -27,7 +26,7 @@ function Hero() {
                 className="flex flex-col items-center justify-center p-4 md:p-6 bg-cian text-white shadow-lg rounded-lg transform transition-transform hover:scale-105"
               >
                 <img
-                  src={svgs.LogoCall}
+                  src={assets.LogoCall}
                   alt="Icono de llamada"
                   className="w-12 h-12"
                 />
@@ -40,7 +39,7 @@ function Hero() {
                 target="_blank"
               >
                 <img
-                  src={svgs.logoWhatsapp}
+                  src={assets.logoWhatsapp}
                   alt="Icono de WhatsApp"
                   className="w-12 h-12"
                 />
@@ -53,7 +52,7 @@ function Hero() {
                 target="_blank"
               >
                 <img
-                  src={svgs.logoInstagram}
+                  src={assets.logoInstagram}
                   alt="Icono de Instagram"
                   className="w-12 h-12"
                 />
@@ -66,7 +65,7 @@ function Hero() {
                 target="_blank"
               >
                 <img
-                  src={svgs.LogoFacebook}
+                  src={assets.LogoFacebook}
                   alt="Icono de Facebook"
                   className="w-12 h-12"
                 />

@@ -1,13 +1,11 @@
 import React from "react";
-import { imgs } from "./src/assets/imgs.js";
-import { svgs } from "./src/assets/svgs.js";
-
+import { assets } from "./assets";
 const Contact = () => {
   return (
     <section
       id="contact"
       className="relative h-screen flex items-center justify-center bg-cover bg-center"
-      style={{ backgroundImage: `url(${imgs.backgroundContact})` }}
+      style={{ backgroundImage: `url(${assets.backgroundContact})` }}
     >
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="container relative z-10 mx-auto flex flex-col md:flex-row justify-between items-center p-4 md:p-10 text-white">
@@ -28,7 +26,7 @@ const Contact = () => {
               className="mr-4"
             >
               <img
-                src={svgs.logoWhatsapp}
+                src={assets.logoWhatsapp}
                 alt="WhatsApp"
                 className="w-20 h-20 md:w-10 md:h-10 hover:scale-110 focus:scale-110 transition-transform duration-200 ease-in-out"
               />
@@ -39,7 +37,7 @@ const Contact = () => {
               className="mr-4"
             >
               <img
-                src={svgs.logoInstagram}
+                src={assets.logoInstagram}
                 alt="Instagram"
                 className="w-20 h-20 md:w-10 md:h-10 hover:scale-110 focus:scale-110 transition-transform duration-200 ease-in-out"
               />

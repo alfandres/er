@@ -1,6 +1,6 @@
 import React from "react";
 import Product from "./Product";
-import { pngs } from "./src/assets/png.js";
+import { assets } from "./assets";
 
 const products = [
   {
@@ -8,9 +8,9 @@ const products = [
     fabric: "Piel de Durazno",
     printing: "Sublimación, vinilo, DTF",
     images: [
-      pngs.PielDuraznoWhiteF,
-      pngs.BackPielDurazno,
-      pngs.FrontPielDurazno,
+      assets.PielDuraznoWhiteF,
+      assets.BackPielDurazno,
+      assets.FrontPielDurazno,
     ],
   },
   {
@@ -18,9 +18,9 @@ const products = [
     fabric: "Piel de Durazno",
     printing: "Sublimación, vinilo, DTF",
     images: [
-      pngs.PielDuraznoWhiteFw,
-      pngs.PielDuraznoWhiteFwM,
-      pngs.PielDuraznoWhiteBwM,
+      assets.PielDuraznoWhiteFw,
+      assets.PielDuraznoWhiteFwM,
+      assets.PielDuraznoWhiteBwM,
     ],
   },
   {
@@ -28,9 +28,9 @@ const products = [
     fabric: "Burda",
     printing: "vinilo, DTF, Screen",
     images: [
-      pngs.OversizeWhiteF,
-     pngs.OversizeBlackF,
-     pngs.OversizeBlackB,
+      assets.OversizeWhiteF,
+     assets.OversizeBlackF,
+     assets.OversizeBlackB,
 
     ],
   },
@@ -39,9 +39,9 @@ const products = [
     fabric: "Orion",
     printing: "Full Sublimación",
     images: [
-      pngs.shirtFullsublimacionBasicF,
-      pngs.shirtFullsublimacionF1,
-      pngs.shirtFullsublimacionB1,
+      assets.shirtFullsublimacionBasicF,
+      assets.shirtFullsublimacionF1,
+      assets.shirtFullsublimacionB1,
     ],
   },
   {
@@ -49,9 +49,9 @@ const products = [
     fabric: "Picket",
     printing: "Sublimación, Bordado, Diseño confección",
     images: [
-      pngs.poloBasicF0,
-      pngs.poloF1,
-      pngs.poloB1,
+      assets.poloBasicF0,
+      assets.poloF1,
+      assets.poloB1,
 
     ],
   },
@@ -60,9 +60,9 @@ const products = [
     fabric: "Orion, Pluton, T10, SudaFrica, Spray",
     printing: "FullSublimación",
     images: [
-      pngs.MenSportsUniform2,
-      pngs.MenSportsUniformf1,
-      pngs.MenSportsUniformb1,
+      assets.MenSportsUniform2,
+      assets.MenSportsUniformf1,
+      assets.MenSportsUniformb1,
 
     ],
   },
@@ -71,9 +71,9 @@ const products = [
     fabric: "Orion, Pluton, T10, SudaFrica, Spray",
     printing: "FullSublimación",
     images: [
-      pngs.womenSportsUniform1,
-      pngs.womenSportsUniformF2,
-      pngs.womenSportsUniformB2,
+      assets.womenSportsUniform1,
+      assets.womenSportsUniformF2,
+      assets.womenSportsUniformB2,
 
     ],
   },
@@ -82,9 +82,9 @@ const products = [
     fabric: "Algodon Perchado, Burda",
     printing: "Vinilo, DTF, Bordado, Diseño de confección",
     images: [
-      pngs.sweaterPromocionF,
-      pngs.sweaterPromocionF,
-      pngs.sweaterPromocionB,
+      assets.sweaterPromocionF,
+      assets.sweaterPromocionF,
+      assets.sweaterPromocionB,
 
     ],
     

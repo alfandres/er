@@ -1,5 +1,5 @@
 import React from "react";
-import { imgs } from "./src/assets/imgs.js";
+import { assets } from "./assets";
 
 function Testimonials() {
   return (
@@ -10,7 +10,7 @@ function Testimonials() {
           <div className="flex flex-col items-center bg-gray-200 p-6 rounded-lg shadow-lg">
             <img
               className="w-32 h-32 rounded-full mb-4"
-              src={imgs.imgReferencia1}
+              src={assets.imgReferencia1}
               alt="foto referencia"
             />
             <p className="text-base md:text-lg">
@@ -30,7 +30,7 @@ function Testimonials() {
           <div className="flex flex-col items-center bg-gray-200 p-6 rounded-lg shadow-lg">
           <img
               className="w-32 h-32 rounded-full mb-4"
-              src={imgs.imgReferencia2}
+              src={assets.imgReferencia2}
               alt="foto referencia"
             />
             <p className="text-base md:text-lg">
