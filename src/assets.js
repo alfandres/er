@@ -1,49 +1,49 @@
-import LogoCall from "./assets/svg/logo-Call.svg";
-import LogoEmail from "./assets/svg/logo-Email.svg";
-import LogoEr from "./assets/svg/logo-Er.svg";
-import LogoErWhite from "./assets/svg/logo-Er-white.svg";
+import LogoCall from "./assets/svg/logoCall.svg";
+import LogoEmail from "./assets/svg/logoEmail.svg";
+import LogoEr from "./assets/svg/logoEr.svg";
+import LogoErWhite from "./assets/svg/logoErWhite.svg";
 
-import LogoFacebook from "./assets/svg/logo-Facebook.svg";
-import logoInstagram from "./assets/svg/logo-Instagram.svg";
-import logoWhatsapp from "./assets/svg/logo-Whatsapp.svg";
+import LogoFacebook from "./assets/svg/logoFacebook.svg";
+import logoInstagram from "./assets/svg/logoInstagram.svg";
+import logoWhatsapp from "./assets/svg/logoWhatsapp.svg";
 
-import BackPielDurazno from "./assets/png/BACK-Piel-durazno.png";
-import FrontPielDurazno from "./assets/png/FRONT-Piel-durazno.png";
-import MenSportsUniform2 from "./assets/png/men-sports-uniform-2.png";
-import MenSportsUniform2b from "./assets/png/men-sports-uniform-2b.png";
-import MenSportsUniform2f from "./assets/png/men-sports-uniform-2f.png";
-import MenSportsUniformb1 from "./assets/png/men-sports-uniform-b1.png";
-import MenSportsUniformf1 from "./assets/png/men-sports-uniform-f1.png";
-import OversizeBlackB from "./assets/png/Oversize-black-b.png";
-import OversizeBlackF from "./assets/png/Oversize-black-f.png";
-import OversizeCreamF from "./assets/png/Oversize-cream-f.png";
-import OversizeLightGreyiF from "./assets/png/Oversize-lightGreyi-f.png";
-import OversizeWhiteF from "./assets/png/Oversize-white-f.png";
-import PielDuraznoWhiteB from "./assets/png/Piel-durazno-white-b.png";
-import PielDuraznoWhiteBw from "./assets/png/Piel-durazno-white-bw.png";
-import PielDuraznoWhiteBwM from "./assets/png/Piel-durazno-white-bwM.png";
-import PielDuraznoWhiteF from "./assets/png/Piel-durazno-white-f.png";
-import PielDuraznoWhiteFw from "./assets/png/Piel-durazno-white-fw.png";
-import PielDuraznoWhiteFwM from "./assets/png/Piel-durazno-white-fwM.png";
-import poloB1 from "./assets/png/polo-b-1.png";
-import poloBasicF0 from "./assets/png/polo-basic-f-0.png";
-import poloF1 from "./assets/png/polo-f-1.png";
-import shirtFullsublimacionB1 from "./assets/png/shirt-fullsublimacion-b-1.png";
-import shirtFullsublimacionBasicF from "./assets/png/shirt-fullsublimacion-basic-f.png";
-import shirtFullsublimacionF1 from "./assets/png/shirt-fullsublimacion-f-1.png";
-import sweaterPromocionB from "./assets/png/sweater-promocion-b.png";
-import sweaterPromocionF from "./assets/png/sweater-promocion-f.png";
-import womenSportsUniform1 from "./assets/png/women-sports-uniform-1.png";
-import womenSportsUniform1b from "./assets/png/women-sports-uniform-1b.png";
-import womenSportsUniform1f from "./assets/png/women-sports-uniform-1f.png";
-import womenSportsUniformB2 from "./assets/png/women-sports-uniform-b2.png";
-import womenSportsUniformF2 from "./assets/png/women-sports-uniform-f2.png";
+import BackPielDurazno from "./assets/png/backPielDurazno.png";
+import FrontPielDurazno from "./assets/png/frontPielDurazno.png";
+import MenSportsUniform2 from "./assets/png/menSportsUniform2.png";
+import MenSportsUniformB1 from "./assets/png/menSportsUniformB1.png";
+import MenSportsUniformB2 from "./assets/png/menSportsUniformB2.png";
+import MenSportsUniformF1 from "./assets/png/menSportsUniformF1.png";
+import MenSportsUniformF2 from "./assets/png/menSportsUniformF2.png";
+import OversizeBlackB from "./assets/png/oversizeBlackB.png";
+import OversizeBlackF from "./assets/png/oversizeBlackF.png";
+import OversizeCreamF from "./assets/png/oversizeCreamF.png";
+import OversizeLightGreyiF from "./assets/png/oversizeLightGreyiF.png";
+import OversizeWhiteF from "./assets/png/oversizeWhiteF.png";
+import PielDuraznoWhiteB from "./assets/png/pielDuraznoWhiteB.png";
+import PielDuraznoWhiteBw from "./assets/png/pielDuraznoWhiteBw.png";
+import PielDuraznoWhiteBwM from "./assets/png/pielDuraznoWhiteBwM.png";
+import PielDuraznoWhiteF from "./assets/png/pielDuraznoWhiteF.png";
+import PielDuraznoWhiteFw from "./assets/png/pielDuraznoWhiteFw.png";
+import PielDuraznoWhiteFwM from "./assets/png/pielDuraznoWhiteFwM.png";
+import poloB1 from "./assets/png/poloB1.png";
+import poloBasicF0 from "./assets/png/poloBasicF0.png";
+import poloF1 from "./assets/png/poloF1.png";
+import shirtFullsublimacionB1 from "./assets/png/shirtFullsublimacionB1.png";
+import shirtFullsublimacionBasicF from "./assets/png/shirtFullsublimacionBasicF.png";
+import shirtFullsublimacionF1 from "./assets/png/shirtFullsublimacionF1.png";
+import sweaterPromocionB from "./assets/png/sweaterPromocionB.png";
+import sweaterPromocionF from "./assets/png/sweaterPromocionF.png";
+import womenSportsUniform1 from "./assets/png/womenSportsUniform1.png";
+import womenSportsUniform1b from "./assets/png/womenSportsUniformB1.png";
+import womenSportsUniform1f from "./assets/png/womenSportsUniformF1.png";
+import womenSportsUniformB2 from "./assets/png/womenSportsUniformB2.png";
+import womenSportsUniformF2 from "./assets/png/womenSportsUniformF2.png";
 
-import backgroundContact from "./assets/img/background-contact.jpg";
-import backgroundHeroEr from "./assets/img/background-hero-er.jpg";
-import imgAbout from "./assets/img/img-about.jpg";
-import imgReferencia1 from "./assets/img/img-referencia-1.jpg";
-import imgReferencia2 from "./assets/img/img-referencia-2.jpg";
+import backgroundContact from "./assets/img/backgroundContact.jpg";
+import backgroundHeroEr from "./assets/img/backgroundHeroEr.jpg";
+import imgAbout from "./assets/img/imgAbout.jpg";
+import imgReferencia1 from "./assets/img/imgReferencia1.jpg";
+import imgReferencia2 from "./assets/img/imgReferencia2.jpg";
 
 const assets = {
   LogoCall: LogoCall,
@@ -57,10 +57,10 @@ const assets = {
   BackPielDurazno: BackPielDurazno,
   FrontPielDurazno: FrontPielDurazno,
   MenSportsUniform2: MenSportsUniform2,
-  MenSportsUniform2b: MenSportsUniform2b,
-  MenSportsUniform2f: MenSportsUniform2f,
-  MenSportsUniformb1: MenSportsUniformb1,
-  MenSportsUniformf1: MenSportsUniformf1,
+  MenSportsUniformB1: MenSportsUniformB1,
+  MenSportsUniformB2: MenSportsUniformB2,
+  MenSportsUniformF1: MenSportsUniformF1,
+  MenSportsUniformF2: MenSportsUniformF2,
   OversizeBlackB: OversizeBlackB,
   OversizeBlackF: OversizeBlackF,
   OversizeCreamF: OversizeCreamF,

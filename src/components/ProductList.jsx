@@ -61,8 +61,8 @@ const products = [
     printing: "FullSublimación",
     images: [
       assets.MenSportsUniform2,
-      assets.MenSportsUniformf1,
-      assets.MenSportsUniformb1,
+      assets.MenSportsUniformF1,
+      assets.MenSportsUniformB1,
 
     ],
   },

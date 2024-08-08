@@ -68,10 +68,10 @@ const products = [
     fabric: "Orion, Pluton, T10, SudaFrica, Spray",
     printing: "FullSublimación",
     images: [
-     assets.MenSportsUniformf1,
-     assets.MenSportsUniformb1,
-     assets.MenSportsUniform2f,
-     assets.MenSportsUniform2b,
+     assets.MenSportsUniformF1,
+     assets.MenSportsUniformB1,
+     assets.MenSportsUniformF2,
+     assets.MenSportsUniformB2,
 
     ],
   },
