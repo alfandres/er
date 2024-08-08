@@ -34,7 +34,7 @@ function Hero() {
               </a>
               {/* <!-- WhatsApp Box --> */}
               <a
-                href="https://api.whatsapp.com/message/TLLM6BPBDHISE1?autoload=1&app_absent=0"
+                href="https://wa.me/message/TLLM6BPBDHISE1"
                 className="flex flex-col items-center justify-center p-4 md:p-6 bg-cian text-white shadow-lg rounded-lg transform transition-transform hover:scale-105"
                 target="_blank"
               >

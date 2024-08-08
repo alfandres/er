@@ -21,7 +21,7 @@ const Contact = () => {
           </p>
           <div className="flex justify-center md:justify-start">
             <a
-              href="https://api.whatsapp.com/message/TLLM6BPBDHISE1?autoload=1&app_absent=0"
+              href="https://wa.me/message/TLLM6BPBDHISE1"
               target="_blank"
               className="mr-4"
             >
