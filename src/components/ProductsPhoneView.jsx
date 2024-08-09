@@ -98,6 +98,35 @@ const products = [
     ],
     
   },
+  {
+    title: "Buzo",
+    fabric: "Algodon Perchado, Burda",
+    printing: "Vinilo, DTF, Bordado, Diseño de confección",
+    images: [
+      assets.buszoBasicWhiteF,
+      assets.buszoBasicWhiteB,
+      assets.buszoFrontM,
+      assets.buszoBackM,
+
+    ],
+    
+  },
+  {
+    title: "Camiseta Manga Larga",
+    fabric: "Algodon Perchado, Burda",
+    printing: "Vinilo, DTF, Bordado, Diseño de confección",
+    images: [
+      assets.mangaLargaBasicF,
+      assets.mangaLargaBasicB,
+      assets.mangaLargaFm2,
+      assets.mangaLargaBm2,
+      assets.mangaLargaFm,
+      assets.mangaLargaBm,
+
+
+    ],
+    
+  },
 ];
 
 const ProductsPhoneView = () => {
@@ -108,13 +137,13 @@ const ProductsPhoneView = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 4000,
     pauseOnHover: true,
   };
 
   return (
     <section
-      id="services"
+      id="productViewOnPhone"
       className="flex items-center justify-center md:hidden"
     >
       {" "}

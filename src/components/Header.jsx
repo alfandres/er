@@ -20,11 +20,17 @@ function Header() {
                 Acerca de
               </a>
             </li>
-            <li>
-              <a href="#services" className="hover:underline">
+            <li className="hidden md:block">
+              <a href="#product" className="hover:underline">
                 Productos
               </a>
             </li>
+            <li className="block md:hidden">
+              <a href="#productViewOnPhone" className="hover:underline">
+                Productos
+              </a>
+            </li>
+
             <li>
               <a href="#contact" className="hover:underline">
                 Contacto
