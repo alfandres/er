@@ -89,11 +89,35 @@ const products = [
     ],
     
   },
+  {
+    title: "Buzo",
+    fabric: "Algodon Perchado, Burda",
+    printing: "Vinilo, DTF, Bordado, Diseño de confección",
+    images: [
+      assets.buszoBasicWhiteF,
+      assets.buszoFrontM,
+      assets.buszoBackM,
+
+    ],
+    
+  },
+  {
+    title: "Camiseta Manga Larga",
+    fabric: "Algodon Perchado, Burda",
+    printing: "Vinilo, DTF, Bordado, Diseño de confección",
+    images: [
+      assets.mangaLargaBasicF,
+      assets.mangaLargaFm2,
+      assets.mangaLargaBm2,
+
+    ],
+    
+  },
 ];
 
 const ProductList = () => {
   return (
-    <section id="services" className="bg-gray-200 py-6 px-6 hidden md:block">
+    <section id="product" className="bg-gray-200 py-6 px-6 hidden md:block">
       <div className="text-center py-3">
         <h2 className="text-4xl font-bold py-8 mb-8">Algunos de Nuestros Productos</h2>
       </div>
