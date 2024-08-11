@@ -36,7 +36,7 @@ const products = [
   },
   {
     title: "Camiseta Deportiva",
-    fabric: "Orion",
+    fabric: "Orion, Plutón, Sudáfrica, spray",
     printing: "Full Sublimación",
     images: [
       assets.shirtFullsublimacionBasicF,
@@ -46,8 +46,8 @@ const products = [
   },
   {
     title: "Polo",
-    fabric: "Picket",
-    printing: "Sublimación, Bordado, Diseño confección",
+    fabric: "1) Picket poliéster. 2) Picket algodón ",
+    printing: "1) Fullsublimación. 2) Diseño confección, Bordados ",
     images: [
       assets.poloBasicF0,
       assets.poloF1,
@@ -78,7 +78,7 @@ const products = [
     ],
   },
   {
-    title: "Sweater de Promoción",
+    title: "Sweater para Promociones de Grado",
     fabric: "Algodon Perchado, Burda",
     printing: "Vinilo, DTF, Bordado, Diseño de confección",
     images: [
@@ -90,7 +90,7 @@ const products = [
     
   },
   {
-    title: "Buzo",
+    title: "Buzo con Capucha (Hoodie)",
     fabric: "Algodon Perchado, Burda",
     printing: "Vinilo, DTF, Bordado, Diseño de confección",
     images: [
@@ -102,9 +102,9 @@ const products = [
     
   },
   {
-    title: "Camiseta Manga Larga",
-    fabric: "Algodon Perchado, Burda",
-    printing: "Vinilo, DTF, Bordado, Diseño de confección",
+    title: "Camiseta Manga Larga (Buzo)",
+     fabric: "1) Piel de Durazno. 2) PoliAlgodon 3) Orion",
+    printing: "1) Sublimación. 2) Vinilo, DTF, Screen. 3) Fullsublimación.",
     images: [
       assets.mangaLargaBasicF,
       assets.mangaLargaFm2,
@@ -121,7 +121,7 @@ const ProductList = () => {
       <div className="text-center py-3">
         <h2 className="text-4xl font-bold py-8 mb-8">Algunos de Nuestros Productos</h2>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-3">
         {products.map((product, index) => (
           <Product key={index} {...product} />
         ))}

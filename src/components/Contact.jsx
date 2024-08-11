@@ -28,7 +28,7 @@ const Contact = () => {
               <img
                 src={assets.buttonWhatsapp}
                 alt="WhatsApp"
-                className="w-auto h-20 md:w-auto md:h-20 hover:scale-110 focus:scale-110 transition-transform duration-200 ease-in-out"
+                className="w-auto h-12 md:w-auto md:h-20 hover:scale-110 focus:scale-110 transition-transform duration-200 ease-in-out"
               />
             </a>
             <a
@@ -39,7 +39,7 @@ const Contact = () => {
               <img
                 src={assets.buttonInstagram}
                 alt="Instagram"
-                className="w-auto h-20 md:w-auto md:h-20 hover:scale-110 focus:scale-110 transition-transform duration-200 ease-in-out"
+                className="w-auto h-12 md:w-auto md:h-20 hover:scale-110 focus:scale-110 transition-transform duration-200 ease-in-out"
               />
             </a>
           </div>

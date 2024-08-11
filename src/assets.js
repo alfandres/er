@@ -2,6 +2,7 @@ import LogoCall from "./assets/svg/logoCall.svg";
 import LogoEmail from "./assets/svg/logoEmail.svg";
 import LogoEr from "./assets/svg/logoEr.svg";
 import LogoErWhite from "./assets/svg/logoErWhite.svg";
+import ErQR from "./assets/svg/ErQR.svg";
 
 import LogoFacebook from "./assets/svg/logoFacebook.svg";
 import logoInstagram from "./assets/svg/logoInstagram.svg";
@@ -68,6 +69,7 @@ const assets = {
   logoWhatsapp: logoWhatsapp,
   buttonWhatsapp: buttonWhatsapp,
   buttonInstagram: buttonInstagram,
+  ErQR: ErQR,
 
 
   BackPielDurazno: BackPielDurazno,

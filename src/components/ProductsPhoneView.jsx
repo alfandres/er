@@ -113,8 +113,8 @@ const products = [
   },
   {
     title: "Camiseta Manga Larga",
-    fabric: "Algodon Perchado, Burda",
-    printing: "Vinilo, DTF, Bordado, Diseño de confección",
+    fabric: "1) Piel de Durazno. 2) PoliAlgodon 3) Orion",
+    printing: "1) Sublimación. 2) Vinilo, DTF, Screen. 3) Fullsublimación.",
     images: [
       assets.mangaLargaBasicF,
       assets.mangaLargaBasicB,
