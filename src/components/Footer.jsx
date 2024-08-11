@@ -30,35 +30,44 @@ function Footer() {
           <p>Teléfono: +57 310 571 17 88</p>
           <p>Correo Electrónico: ernesto72p@gmail.com</p>
         </div>
-        <div className="flex space-x-4">
-          <a
-          
-            href="https://www.facebook.com/Er.72p"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex flex-col items-center hover:underline"
-          >
+        <div className="flex flex-col items-center">
+          <div className="flex space-x-4">
+            <a
+              href="https://www.facebook.com/Er.72p"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex flex-col items-center hover:underline"
+            >
+              <img
+                src={assets.LogoFacebook}
+                alt="Icono de Facebook"
+                className="w-8 h-8"
+              />
+              Facebook
+            </a>
+
+            <a
+              href="https://www.instagram.com/er_niceshirts?igsh=YzljYTk1ODg3Zg=="
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex flex-col items-center hover:underline"
+            >
+              <img
+                src={assets.logoInstagram}
+                alt="Icono de Instagram"
+                className="w-8 h-8"
+              />
+              Instagram
+            </a>
+          </div>
+          <div className="w-12 h-12 bg-white flex items-center justify-center rounded-lg">
             <img
-                  src={assets.LogoFacebook}
-                  alt="Icono de Facebook"
-                  className="w-8 h-8"
-                />
-            Facebook
-          </a>
-         
-          <a
-            href="https://www.instagram.com/er_niceshirts?igsh=YzljYTk1ODg3Zg=="
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex flex-col items-center hover:underline"
-          >
-            <img
-                  src={assets.logoInstagram}
-                  alt="Icono de Instagram"
-                  className="w-8 h-8"
-                />
-            Instagram
-          </a>
+              src={assets.ErQR}
+              alt="Icono de Instagram"
+              className="w-10 h-10"
+            />
+            
+          </div>
         </div>
       </div>
       <p className="mt-4">&copy; 2024 Er. Todos los derechos reservados.</p>

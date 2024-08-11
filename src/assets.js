@@ -2,10 +2,14 @@ import LogoCall from "./assets/svg/logoCall.svg";
 import LogoEmail from "./assets/svg/logoEmail.svg";
 import LogoEr from "./assets/svg/logoEr.svg";
 import LogoErWhite from "./assets/svg/logoErWhite.svg";
+import ErQR from "./assets/svg/ErQR.svg";
 
 import LogoFacebook from "./assets/svg/logoFacebook.svg";
 import logoInstagram from "./assets/svg/logoInstagram.svg";
 import logoWhatsapp from "./assets/svg/logoWhatsapp.svg";
+
+import buttonWhatsapp from "./assets/png/buttonWhatsapp.png";
+import buttonInstagram from "./assets/png/buttonInstagram.png";
 
 import BackPielDurazno from "./assets/png/backPielDurazno.png";
 import FrontPielDurazno from "./assets/png/frontPielDurazno.png";
@@ -38,6 +42,16 @@ import womenSportsUniform1b from "./assets/png/womenSportsUniformB1.png";
 import womenSportsUniform1f from "./assets/png/womenSportsUniformF1.png";
 import womenSportsUniformB2 from "./assets/png/womenSportsUniformB2.png";
 import womenSportsUniformF2 from "./assets/png/womenSportsUniformF2.png";
+import buszoBasicWhiteF from "./assets/png/buszoBasicWhiteF.png";
+import buszoBasicWhiteB from "./assets/png/buszoBasicWhiteB.png";
+import buszoFrontM from "./assets/png/buszoFrontM.png";
+import buszoBackM from "./assets/png/buszoBackM.png";
+import mangaLargaBasicF from "./assets/png/mangaLargaBasicF.png";
+import mangaLargaBasicB from "./assets/png/mangaLargaBasicB.png";
+import mangaLargaFm from "./assets/png/mangaLargaFm.png";
+import mangaLargaBm from "./assets/png/mangaLargaBm.png";
+import mangaLargaFm2 from "./assets/png/mangaLargaFm2.png";
+import mangaLargaBm2 from "./assets/png/mangaLargaBm2.png";
 
 import backgroundContact from "./assets/img/backgroundContact.jpg";
 import backgroundHeroEr from "./assets/img/backgroundHeroEr.jpg";
@@ -53,6 +67,10 @@ const assets = {
   LogoFacebook: LogoFacebook,
   logoInstagram: logoInstagram,
   logoWhatsapp: logoWhatsapp,
+  buttonWhatsapp: buttonWhatsapp,
+  buttonInstagram: buttonInstagram,
+  ErQR: ErQR,
+
 
   BackPielDurazno: BackPielDurazno,
   FrontPielDurazno: FrontPielDurazno,
@@ -85,6 +103,16 @@ const assets = {
   womenSportsUniform1f: womenSportsUniform1f,
   womenSportsUniformB2: womenSportsUniformB2,
   womenSportsUniformF2: womenSportsUniformF2,
+  buszoBasicWhiteF: buszoBasicWhiteF,
+  buszoBasicWhiteB: buszoBasicWhiteB,
+  buszoFrontM: buszoFrontM,
+  buszoBackM: buszoBackM,
+  mangaLargaBasicF: mangaLargaBasicF,
+  mangaLargaBasicB: mangaLargaBasicB,
+  mangaLargaFm: mangaLargaFm,
+  mangaLargaBm: mangaLargaBm,
+  mangaLargaFm2: mangaLargaFm2,
+  mangaLargaBm2: mangaLargaBm2,
 
   backgroundHeroEr: backgroundHeroEr,
   backgroundContact: backgroundContact,

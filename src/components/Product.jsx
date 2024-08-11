@@ -12,7 +12,7 @@ const Product = ({ title, fabric, printing, images }) => {
     >
       <div className="flex items-center mb-4">
         <div className="w-28 h-28 flex items-center justify-center bg-gray-200 rounded-full border-2 border-cian ">
-                <img src={images[0]} alt={`${title} main`} className="w-16 h-auto" />
+                <img src={images[0]} alt={`${title} main`} className="w-20 h-auto" />
     
         </div>
         <div className="ml-4">
