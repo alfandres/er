@@ -4,8 +4,8 @@ import "./App.css";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import About from "./components/About";
-import ProductList from "./components/ProductList";
-import ProductsPhoneView from "./components/ProductsPhoneView";
+import ProductDesktopView from "./components/ProductDesktopView";
+import ProductPhoneView from "./components/ProductPhoneView";
 import Reference from "./components/Reference";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -19,8 +19,8 @@ function App() {
       <main className="mt-16">
         <Hero />
         <About />
-        <ProductList />
-        <ProductsPhoneView />
+        <ProductDesktopView />
+        <ProductPhoneView />
         <Reference />
         <Contact />
       </main>

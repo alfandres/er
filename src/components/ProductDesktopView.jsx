@@ -1,5 +1,6 @@
 // src/components/Product.js
 import React, { useState } from 'react';
+import products from './Products';
 
 const Product = ({ title, fabric, printing, images }) => {
   const [hover, setHover] = useState(false);
@@ -32,4 +33,19 @@ const Product = ({ title, fabric, printing, images }) => {
   );
 };
 
-export default Product;
+const ProductList = () => {
+  return (
+    <section id="product" className="bg-gray-200 py-6 px-6 hidden md:block">
+      <div className="text-center py-3">
+        <h2 className="text-4xl font-bold py-8 mb-8">Algunos de Nuestros Productos</h2>
+      </div>
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-3">
+        {products.map((product, index) => (
+          <Product key={index} {...product} />
+        ))}
+      </div>
+    </section>
+  );
+};
+
+export default ProductList;
