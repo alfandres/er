@@ -23,8 +23,8 @@ import OversizeBlackF from "./assets/png/oversizeBlackF.png";
 import OversizeCreamF from "./assets/png/oversizeCreamF.png";
 import OversizeLightGreyiF from "./assets/png/oversizeLightGreyiF.png";
 import OversizeWhiteF from "./assets/png/oversizeWhiteF.png";
-import PielDuraznoWhiteB from "./assets/png/pielDuraznoWhiteB.png";
-import PielDuraznoWhiteBw from "./assets/png/pielDuraznoWhiteBw.png";
+
+
 import PielDuraznoWhiteBwM from "./assets/png/pielDuraznoWhiteBwM.png";
 import PielDuraznoWhiteF from "./assets/png/pielDuraznoWhiteF.png";
 import PielDuraznoWhiteFw from "./assets/png/pielDuraznoWhiteFw.png";
@@ -43,11 +43,11 @@ import womenSportsUniform1f from "./assets/png/womenSportsUniformF1.png";
 import womenSportsUniformB2 from "./assets/png/womenSportsUniformB2.png";
 import womenSportsUniformF2 from "./assets/png/womenSportsUniformF2.png";
 import buszoBasicWhiteF from "./assets/png/buszoBasicWhiteF.png";
-import buszoBasicWhiteB from "./assets/png/buszoBasicWhiteB.png";
+
 import buszoFrontM from "./assets/png/buszoFrontM.png";
 import buszoBackM from "./assets/png/buszoBackM.png";
 import mangaLargaBasicF from "./assets/png/mangaLargaBasicF.png";
-import mangaLargaBasicB from "./assets/png/mangaLargaBasicB.png";
+
 import mangaLargaFm from "./assets/png/mangaLargaFm.png";
 import mangaLargaBm from "./assets/png/mangaLargaBm.png";
 import mangaLargaFm2 from "./assets/png/mangaLargaFm2.png";
@@ -84,8 +84,7 @@ const assets = {
   OversizeCreamF: OversizeCreamF,
   OversizeLightGreyiF: OversizeLightGreyiF,
   OversizeWhiteF: OversizeWhiteF,
-  PielDuraznoWhiteB: PielDuraznoWhiteB,
-  PielDuraznoWhiteBw: PielDuraznoWhiteBw,
+
   PielDuraznoWhiteBwM: PielDuraznoWhiteBwM,
   PielDuraznoWhiteF: PielDuraznoWhiteF,
   PielDuraznoWhiteFw: PielDuraznoWhiteFw,
@@ -104,11 +103,11 @@ const assets = {
   womenSportsUniformB2: womenSportsUniformB2,
   womenSportsUniformF2: womenSportsUniformF2,
   buszoBasicWhiteF: buszoBasicWhiteF,
-  buszoBasicWhiteB: buszoBasicWhiteB,
+
   buszoFrontM: buszoFrontM,
   buszoBackM: buszoBackM,
   mangaLargaBasicF: mangaLargaBasicF,
-  mangaLargaBasicB: mangaLargaBasicB,
+
   mangaLargaFm: mangaLargaFm,
   mangaLargaBm: mangaLargaBm,
   mangaLargaFm2: mangaLargaFm2,

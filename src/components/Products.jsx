@@ -12,7 +12,7 @@ const products = [
     //ProductPhoneView
     Images: [
       assets.PielDuraznoWhiteF,
-      assets.PielDuraznoWhiteB,
+     
       assets.FrontPielDurazno,
       assets.BackPielDurazno,
     ],
@@ -26,7 +26,7 @@ const products = [
 
     Images: [
       assets.PielDuraznoWhiteFw,
-      assets.PielDuraznoWhiteBw,
+      
       assets.PielDuraznoWhiteFwM,
       assets.PielDuraznoWhiteBwM,
     ],
@@ -112,7 +112,7 @@ const products = [
     images: [assets.buszoFrontM, assets.buszoBackM],
     Images: [
       assets.buszoBasicWhiteF,
-      assets.buszoBasicWhiteB,
+     
       assets.buszoFrontM,
       assets.buszoBackM,
     ],
